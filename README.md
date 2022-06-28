@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1>Bruno Sergio dos Santos</h1>
+<h3>https://www.linkedin.com/in/bruno-sergio-dos-santos-677379227/</h3>
 
 <!--
 **bssantos1801/bssantos1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
